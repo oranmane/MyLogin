@@ -3,7 +3,7 @@ package ca.sait.mylogin.models;
 import java.io.Serializable;
 
 /**
- *
+ * Represent a User
  * @author Seungjin Moon
  */
 public class User implements Serializable {

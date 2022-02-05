@@ -7,7 +7,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 /**
- *
+ * Login Controller
  * @author Seungjin Moon
  */
 public class LoginServlet extends HttpServlet {

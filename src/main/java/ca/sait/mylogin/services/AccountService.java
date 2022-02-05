@@ -3,7 +3,7 @@ package ca.sait.mylogin.services;
 import ca.sait.mylogin.models.User;
 
 /**
- *
+ * Validate an account
  * @author Seungjin Moon
  */
 public class AccountService {

@@ -5,7 +5,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 /**
- *
+ * Home Controller
  * @author Seungjin Moon
  */
 public class HomeSevlet extends HttpServlet {
